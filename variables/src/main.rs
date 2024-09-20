@@ -20,4 +20,8 @@ fn main() {
     let (x, y, z) = tup;
 
     println!("O valor do y é: {}", y);
+
+    let a = [1, 2, 3, 4, 5];
+
+    println!(type(a));
 }
