@@ -1,0 +1,1 @@
+G:\Bibliotecas\Downloads\Rust\rust\communicator\target\debug\libcommunicator.rlib: G:\Bibliotecas\Downloads\Rust\rust\communicator\src\client.rs G:\Bibliotecas\Downloads\Rust\rust\communicator\src\lib.rs G:\Bibliotecas\Downloads\Rust\rust\communicator\src\network\mod.rs G:\Bibliotecas\Downloads\Rust\rust\communicator\src\network\server.rs
